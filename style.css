@@ -68,14 +68,14 @@ body {
   }
 
   
-/* iphone 5 DONE*/
+/* iphone 5 */
   @media screen and (max-width: 320px) {
     footer {
         width: 85%;
     }
 }
 
-/* iphone 6, 7, 8 plus  */
+/* iphone 6, 7, 8 plus */
 /* @media screen and (max-width: 414px) {
     footer {
         width: 80%;
@@ -89,7 +89,7 @@ body {
     }
 }
 
-  /* ipad pro - laptop S + XL  DONE */
+  /* ipad pro - laptop S + XL */
   @media screen and (min-width: 1024px) {
     footer {
         width: 95%;
