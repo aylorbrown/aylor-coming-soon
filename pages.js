@@ -29,7 +29,6 @@ const next = function () {
     updateSection();
 }
 
-
 // make a precious function to decrease the pageNumber 
 const previous = function () {
     pageNumber = pageNumber - 1; 
@@ -46,8 +45,6 @@ const random = function () {
 
     updateSection();
 }
-
-
 
 
 // this will update the sections content and style
